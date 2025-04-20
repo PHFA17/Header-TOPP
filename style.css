@@ -104,7 +104,7 @@ header{
 }
 
 #profileIcon{
-    background-image: url(/img/SVG/Profile\ Icon\ Outline_1.svg);
+    background-image: url(./img/SVG/Profile\ Icon\ Outline_1.svg);
     background-size: cover;
     background-color: transparent;
     width: 22px; height: 20px;
@@ -112,7 +112,7 @@ header{
 }
 
 #loveIcon{
-    background-image: url(/img/SVG/Love\ Icon\ Outline.svg);
+    background-image: url(./img/SVG/Love\ Icon\ Outline.svg);
     background-size: contain;
     background-color: transparent;
     width: 22px; height: 19px;
